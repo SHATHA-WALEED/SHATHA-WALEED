@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12181C,100:1A2229&height=130&section=header&text=Shatha%20Waleed&fontSize=38&fontColor=ECE9E1&desc=Frontend%20%26%20Mobile%20Interface%20Developer&descAlign=50&descAlignY=75&descSize=16" alt="Shatha Waleed" />
 
 <p>
 I design and build interfaces that move between the browser and the phone —<br/>
