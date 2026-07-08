@@ -1,13 +1,52 @@
-<h1 align="center">Hi 👋, I'm SHATHA</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **URG**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12181C,100:1A2229&height=130&section=header&text=Shatha%20Waleed&fontSize=38&fontColor=ECE9E1&desc=Frontend%20%26%20Mobile%20Interface%20Developer&descAlign=50&descAlignY=75&descSize=16" alt="Shatha Waleed" />
 
-- 📫 How to reach me **www.linkedin.com/in/ SHATHA-WALEED**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+I design and build interfaces that move between the browser and the phone —<br/>
+from Figma file to shipped screen. Based in Egypt.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/SHATHA-WALEED" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-D8A03D?style=flat-square&logo=linkedin&logoColor=12181C" alt="LinkedIn" />
+</a>
+
+</div>
+
+<br/>
+
+## Toolkit
+
+**Design &amp; Prototyping**
+<br/>
+<img src="https://img.shields.io/badge/Figma-1A2229?style=flat-square&logo=figma&logoColor=D8A03D" alt="Figma" />
+
+**Web**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-1A2229?style=flat-square&logo=html5&logoColor=D8A03D" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1A2229?style=flat-square&logo=css3&logoColor=D8A03D" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-1A2229?style=flat-square&logo=javascript&logoColor=D8A03D" alt="JavaScript" />
+
+**Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Android-1A2229?style=flat-square&logo=android&logoColor=D8A03D" alt="Android" />
+<img src="https://img.shields.io/badge/Kotlin-1A2229?style=flat-square&logo=kotlin&logoColor=D8A03D" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Java-1A2229?style=flat-square&logo=openjdk&logoColor=D8A03D" alt="Java" />
+
+**Backend &amp; Data**
+<br/>
+<img src="https://img.shields.io/badge/PHP-1A2229?style=flat-square&logo=php&logoColor=D8A03D" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-1A2229?style=flat-square&logo=mysql&logoColor=D8A03D" alt="MySQL" />
+
+**Systems &amp; ML**
+<br/>
+<img src="https://img.shields.io/badge/Linux-1A2229?style=flat-square&logo=linux&logoColor=D8A03D" alt="Linux" />
+<img src="https://img.shields.io/badge/TensorFlow-1A2229?style=flat-square&logo=tensorflow&logoColor=D8A03D" alt="TensorFlow" />
+
+<br/><br/>
+
+<div align="center">
+
+Open to frontend &amp; mobile collaborations — <a href="https://www.linkedin.com/in/SHATHA-WALEED">let's connect</a>
+
+</div>
